@@ -1,0 +1,61 @@
+/* index html page */
+
+.sign1 {
+    color: white;
+    text-decoration: none;
+}
+
+.sign2 {
+    color: white;
+}
+
+.sign2:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.sign1:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.logo1 {
+    height: 150px;
+}
+
+.mid {
+    background-color: lightgray;
+    height: auto;
+    width: 300px;
+    border-radius: 25px;
+}
+
+
+/* sign up page */
+
+.bdy {
+    background-color: lightgray;
+    border-radius: 25px;
+}
+
+.log {
+    background-color: aqua;
+}
+
+
+/* certificate html page */
+
+.head {
+    background-color: lightcyan;
+    border: 2px solid black;
+}
+
+.para {
+    font-size: 30px;
+    text-align: center;
+}
+
+.con {
+    font-size: 40px;
+    font-weight: bold;
+}
